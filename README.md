@@ -2,7 +2,6 @@
 
 Actividad 1.
 
-| Campo | Detalle |
 | --- | --- |
 | Universidad | Universidad Nacional de Colombia |
 | Actividad | Actividad 1. Trabajo individual (valor 10%) |
