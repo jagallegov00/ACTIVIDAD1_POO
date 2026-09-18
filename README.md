@@ -1,7 +1,8 @@
 # Universidad Nacional de Colombia
 
-Actividad 1. 
+Actividad 1.
 
+| Campo | Detalle |
 | --- | --- |
 | Universidad | Universidad Nacional de Colombia |
 | Actividad | Actividad 1. Trabajo individual (valor 10%) |
@@ -9,6 +10,7 @@ Actividad 1.
 | Docente | Walter Hugo Arboleda Mazo |
 | Lenguaje | Java (JDK 21) |
 
+## Estructura del proyecto
 
 ```
 Actividad1-POO/
