@@ -1,6 +1,6 @@
 # Universidad Nacional de Colombia
 
-Actividad 1.
+## Actividad 1.
 
 | Elemento | Descripción |
 | --- | --- |
@@ -10,7 +10,7 @@ Actividad 1.
 | Docente | Walter Hugo Arboleda Mazo |
 | Lenguaje | Java (JDK 21) |
 
-## Estructura del proyecto
+### Estructura del proyecto
 
 ```
 Actividad1-POO/
