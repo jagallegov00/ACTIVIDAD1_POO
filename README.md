@@ -2,9 +2,10 @@
 
 Actividad 1. 
 
+| --- | --- |
 | Universidad | Universidad Nacional de Colombia |
 | Actividad | Actividad 1. Trabajo individual (valor 10%) |
-| Estudiante | Julián Alejandro Gallego Villa (1035832978)|
+| Estudiante | Julián Alejandro Gallego Villa (1035832978) |
 | Docente | Walter Hugo Arboleda Mazo |
 | Lenguaje | Java (JDK 21) |
 
